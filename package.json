@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@react-keycloak/native": "^0.5.2"
+  }
+}
